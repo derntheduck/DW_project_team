@@ -2,6 +2,15 @@
 team loso not solo
 
 # Introduce myteam
-Nanadda Rattanasri 673020490-8
+Nanadda Rattanasri 
 
-Phlapapon Kulto 673020626-9
+id : 673020490-8
+
+Phlapapon Kulto 
+
+id: 673020626-9
+
+Jinrada Sai-Udta 
+
+
+id: 673020489-3
