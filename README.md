@@ -11,5 +11,4 @@ Phlapapon Kulto
 id: 673020626-9
 
 Jinrada Sai-Udta 
-
 id: 673020489-3
